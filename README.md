@@ -29,6 +29,6 @@ Database:
 
 - Express
 - Node
-- Axios?
+- Axios
 
 This is not hosted anywhere yet so use the Create-React-App Development server by running `npm start` after installing with `npm i` or `npm install` and wait for the browser to start.
